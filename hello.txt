@@ -6,3 +6,4 @@ I am learning staging.
 Git is starting to make sense.
 I am learning GitHub!
 I am learning to use Git.
+I am learning branches!
